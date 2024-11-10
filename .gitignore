@@ -1,0 +1,8 @@
+.pytest_cache
+.idea
+*__pycache__
+dist/
+.DS_Store
+build/
+.python-version
+onepassword_sdk.egg-info/
