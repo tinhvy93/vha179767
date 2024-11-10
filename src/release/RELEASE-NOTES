@@ -1,0 +1,2 @@
+The v0.1.3 release of the Python SDK brings:
+* Support for item websites. You can now create, get, and edit websites within your 1Password items using item CRUD functions.
